@@ -1,4 +1,4 @@
-# The Reaction Gam
+# The Reaction Game
 
 ## Project setup
 ```

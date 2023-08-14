@@ -1,4 +1,4 @@
-# firstprojcet
+# The Reaction Gam
 
 ## Project setup
 ```
